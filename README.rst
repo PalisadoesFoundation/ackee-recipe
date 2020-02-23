@@ -18,3 +18,4 @@ Example Recipes
 
 #. `Ackee and Saltfish <ackee-and-saltfish/README.rst>`_
 #. `Fried Ripe Plantains <fried-ripe-plantains/README.rst>`_
+#. `Roasted and Fried Breadfruit <roasted-breadfruit/README.rst>`_
