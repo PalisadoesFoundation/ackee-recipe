@@ -29,6 +29,7 @@ To prepare the dish, salt cod is sautéed with boiled ackee, onions, Scotch Bonn
 
 Ingredients
 ===========
+
 Serves 2-4
 
 * ½-pound salt fish
@@ -47,11 +48,11 @@ Directions
 
 .. image:: images/image-01.jpg
 
-1. Put saltfish to soak in cold water for about 1 hour.
-1. Pour off water; add fresh water and boil until tender.
-1. De-bone and flake the saltfish.
-1. Heat oil and sauté onion, garlic, scallions, tomatoes, scotch bonnet pepper and sweet pepper until tender, about five to six minutes.
-1. Add flaked saltfish, fresh or canned ackee and black pepper.
-1. Toss lightly; cover and allow to stand over low heat for about 2 minutes.
+#. Put saltfish to soak in cold water for about 1 hour.
+#. Pour off water; add fresh water and boil until tender.
+#. De-bone and flake the saltfish.
+#. Heat oil and sauté onion, garlic, scallions, tomatoes, scotch bonnet pepper and sweet pepper until tender, about five to six minutes.
+#. Add flaked saltfish, fresh or canned ackee and black pepper.
+#. Toss lightly; cover and allow to stand over low heat for about 2 minutes.
 
 Enjoy this most famous Jamaican dish!
