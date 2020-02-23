@@ -2,7 +2,7 @@
 Ackee and Saltfish Recipe
 #########################
 
-The original version of this recipe was published on the `Jamaica Inn Hotel's blog <https://jamaicainn.com/blog/recipe-ackee-saltfish-jamaicas-national-dish/>`_. All images from that original post.
+The original version of this recipe was published on the `Jamaica Inn Hotel's blog <https://jamaicainn.com/blog/recipe-ackee-saltfish-jamaicas-national-dish/>`_. All images in this recipe are from that original post.
 
 ***********************
 Jamaica's National Dish
