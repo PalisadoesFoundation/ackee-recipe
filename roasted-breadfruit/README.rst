@@ -42,19 +42,33 @@ Directions
 #. Preheat the oven to 375F.
 #. Rinse the breadfruit and dry it well.
 #. Using a paring knife, carve out the stem.
+
     .. image:: images/image-03.jpg
+
 #. Cut a small "x" in the opposite side.
+
     .. image:: images/image-04.jpg
+
 #. Lightly coat the breadfruit in some coconut oil. Roast in a preheated 375°F oven,, directly on the rack, for 1 – 1 1/2 hours. As it roasts, your kitchen will be filled with the amazing aroma of fresh-baked bread (hence the name). A good sign that the breadfruit is ready is when there is steam is coming out of both ends.
+
     .. image:: images/image-05.jpg
+
 #. Remove the breadfruit from the oven and allow it to cool. Peel off the outer skin.
+
     .. image:: images/image-06.jpg
+
 #. Cut it in half, and scoop out the inner core.
+
     .. image:: images/image-07.jpg
+
 #. Slice into 1/2 inch thick wedges.
+
     .. image:: images/image-08.jpg
+
 #. (Optional) Heat 2 tablespoons of coconut oil in a large skillet over medium high heat. Working in batches, fry the wedges until golden brown, about 4-5 minutes per side. Remove them from the skillet and drain on a paper towel lined plate.
+
     .. image:: images/image-09.jpg
+    
 #. Season the wedges with sea salt before serving.
 
 Recipe Notes
