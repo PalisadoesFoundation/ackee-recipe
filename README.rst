@@ -38,7 +38,6 @@ Serves 2-4
 * 1 small sweet pepper (yellow/red or green), julienned
 * 1 medium tomato, chopped
 * 2 cloves of garlic, minced
-* 2 tsps of fresh thyme leaves when pulled from stems
 * 1 teaspoon scotch bonnet pepper, chopped finely (omit if you don’t want the dish spicy)
 * 2 stalks scallion, chopped
 * 1-2 tablespoons extra virgin olive oil
@@ -52,7 +51,7 @@ Directions
 #. Put saltfish to soak in cold water for about 1 hour.
 #. Pour off water; add fresh water and boil until tender.
 #. De-bone and flake the saltfish.
-#. Heat oil and sauté onion, thyme, garlic, scallions, tomatoes, scotch bonnet pepper and sweet pepper until tender, about five to six minutes.
+#. Heat oil and sauté onion, garlic, scallions, tomatoes, scotch bonnet pepper and sweet pepper until tender, about five to six minutes.
 #. Add flaked saltfish, fresh or canned ackee and black pepper.
 #. Toss lightly; cover and allow to stand over low heat for about 2 minutes.
 
