@@ -34,3 +34,5 @@ Recipes
 #. `Ackee and Saltfish <recipes/ackee-and-saltfish/README.rst>`_
 #. `Fried Ripe Plantains <recipes/fried-ripe-plantains/README.rst>`_
 #. `Roasted and Fried Breadfruit <recipes/roasted-breadfruit/README.rst>`_
+
+Deandrew Moore
