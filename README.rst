@@ -36,3 +36,4 @@ Recipes
 #. `Roasted and Fried Breadfruit <recipes/roasted-breadfruit/README.rst>`_
 
 Deandrew Moore
+Jason Gayle
